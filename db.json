@@ -1,0 +1,81 @@
+ {
+          "phaseID": 1,
+          "title": "Warm Up",
+          "description": "Brief stretches before the main set.",
+          "numOfSteps": 6,
+          "targetTime": 6,
+          "steps": [
+            {
+              "stepID": 1,
+              "title": "Quad + Piriformis Walk",
+              "description": "Start standing then draw left foot up behind you, pulling toward your butt for a quad stretch. Release and step forward; switch legs. After 30 seconds, cradle right leg at ankle and knee, pulling up to chest. Release and step forward; switch legs. Repeat for 30 seconds.",
+              "numOfRepeats": 0,
+              "unitDistance": 0,
+              "unitSpeed": 0,
+              "minTargetTime": 0.5,
+              "maxTargetTime": 1,
+              "targetHR": "1",
+              "recoveryDuration": 0
+            },
+            {
+              "stepID": 2,
+              "title": "Hip Opener",
+              "description": "From standing, bend right knee and lift knee to hip level, then rotate the knee out to 90 degrees. (Place hand over knee to stabilize and guide if needed.) Bring leg back to front; lower foot, and switch sides. Repeat for 30 seconds.",
+              "numOfRepeats": 0,
+              "unitDistance": 0,
+              "unitSpeed": 0,
+              "minTargetTime": 0.5,
+              "maxTargetTime": 1,
+              "targetHR": "1",
+              "recoveryDuration": 0
+            },
+            {
+              "stepID": 3,
+              "title": "Arm Circles",
+              "description": "Stand with feet shoulder-width apart and lift arms out to shoulder height, palms down. Make small circles; after 30 seconds, switch direction. Continue for another 30 seconds.",
+              "numOfRepeats": 0,
+              "unitDistance": 0,
+              "unitSpeed": 0,
+              "minTargetTime": 0.5,
+              "maxTargetTime": 1,
+              "targetHR": "1",
+              "recoveryDuration": 0
+            },
+            {
+              "stepID": 4,
+              "title": "Frankenstein Walk",
+              "description": "Start standing with feet together. Extend right leg straight out in front of you as you bring left hand to tap right toes. Lower leg and step forward; repeat on opposite side. Continue for 30 seconds.",
+              "numOfRepeats": 0,
+              "unitDistance": 0,
+              "unitSpeed": 0,
+              "minTargetTime": 0.5,
+              "maxTargetTime": 1,
+              "targetHR": "1",
+              "recoveryDuration": 0
+            },
+            {
+              "stepID": 5,
+              "title": "Leg Crossover + Scorpion",
+              "description": "1) Lie faceup, legs straight and arms out. Lift right leg up and across your body, tapping foot to the floor. Return to start; repeat on other side. After 30 seconds, flip over to lie facedown and perform a Scorpion. 2) Lie facedown. Draw left leg up and cross it over your body so that left foot is nearly in line with right hip. Hold for a breath or two, then return to start. Repeat on other side and continue to alternate for 30 seconds.",
+              "numOfRepeats": 0,
+              "unitDistance": 0,
+              "unitSpeed": 0,
+              "minTargetTime": 0.5,
+              "maxTargetTime": 1,
+              "targetHR": "1",
+              "recoveryDuration": 0
+            },
+            {
+              "stepID": 6,
+              "title": "Inchworm",
+              "description": "From standing, bend forward at the waist to touch toes, then walk hands out to a high plank. Hold for 2 seconds; walk feet to meet hands. Roll up to starting position. Repeat for 1 minute.",
+              "numOfRepeats": 0,
+              "unitDistance": 0,
+              "unitSpeed": 0,
+              "minTargetTime": 0.5,
+              "maxTargetTime": 1,
+              "targetHR": "1",
+              "recoveryDuration": 0
+            }
+          ]
+        }
