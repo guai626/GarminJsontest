@@ -1,9 +1,6 @@
  {
           "phaseID": 1,
           "title": "Warm Up",
-          "description": "Brief stretches before the main set.",
-          "numOfSteps": 6,
-          "targetTime": 6,
           "steps": [
             {
               "stepID": 1,
